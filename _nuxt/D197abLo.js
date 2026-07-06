@@ -1,0 +1,1 @@
+import{_ as n,o,c as t,a1 as s}from"./BaVdDrFC.js";const _={},c={class:"pending-note"};function a(e,r){return o(),t("p",c,[s(e.$slots,"default",{},void 0,!0)])}const f=Object.assign(n(_,[["render",a],["__scopeId","data-v-1c3a7b2f"]]),{__name:"CommonPendingNote"});export{f as _};
