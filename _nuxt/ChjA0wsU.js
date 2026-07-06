@@ -1,1 +1,0 @@
-import{d as u}from"./DMbtzvdu.js";import{h as s}from"./ffybSer0.js";const c="tam_cart";function f(){const e=u(c,[]),r=s(()=>e.value.length),a=t=>e.value.includes(t);return{items:e,count:r,has:a,add:t=>a(t)?!1:(e.value=[...e.value,t],!0),remove:t=>{e.value=e.value.filter(o=>o!==t)},clear:()=>{e.value=[]}}}export{f as u};
