@@ -1,0 +1,1 @@
+import{d as t}from"./DMbtzvdu.js";const o="tam_addresses";function c(){const e=t(o,[]);return{addresses:e,add:s=>{e.value=[...e.value,s]},removeAt:s=>{e.value=e.value.filter((u,a)=>a!==s)}}}export{c as u};
